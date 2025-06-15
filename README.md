@@ -13,3 +13,6 @@
 1. myenv\Scripts\activate<br>
 2. python .\main.py
 
+## 📹 Video
+https://github.com/user-attachments/assets/731b240d-5061-43b7-b88b-c1c0719810d9
+
