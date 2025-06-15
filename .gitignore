@@ -1,11 +1,10 @@
 
-
 echo "__pycache__/
-
+.VSCodeCounter/
 myenv/
 ui/__pycache__/
 ui/lessons/__pycache__/" > .gitignore
-
+*.mp3
 *.avi
 
 text-to-sign/Dataset/
