@@ -1,4 +1,4 @@
-## Dataset
+## 📂 Dataset
 The ASL dataset is available on Google Drive: [Download Dataset](https://drive.google.com/drive/folders/1JJAsT6jfaDrJfbAN0opFF_okpy-qUBs6?usp=drive_link)
  
 ## 🚀 Setup & Run
@@ -9,6 +9,6 @@ The ASL dataset is available on Google Drive: [Download Dataset](https://drive.g
 5. python .\main.py
 
 ## ▶️ To Run Later
-myenv\Scripts\activate<br>
-python .\main.py
+1. myenv\Scripts\activate<br>
+2. python .\main.py
 
