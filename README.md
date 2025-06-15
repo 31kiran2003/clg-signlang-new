@@ -1,7 +1,7 @@
 ## 📂 Dataset
- 1.ASL dataset used for training and testing<br>
- 2. Available on Google Drive<br>
- 👉 [Download Dataset](https://drive.google.com/drive/folders/1JJAsT6jfaDrJfbAN0opFF_okpy-qUBs6?usp=drive_link)
+1.ASL dataset used for training and testing<br>
+2. Available on Google Drive<br>
+👉 [Download Dataset](https://drive.google.com/drive/folders/1JJAsT6jfaDrJfbAN0opFF_okpy-qUBs6?usp=drive_link)
  
 ## 🚀 Setup & Run
 1. python -m venv myenv<br>
