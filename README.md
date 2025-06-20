@@ -1,3 +1,5 @@
+## 🐍 Python version 3.11.7
+
 ## 📂 Dataset
    1. ASL dataset used for training and testing<br>
    2. Available on Google Drive 👉 [Download Dataset](https://drive.google.com/drive/folders/1JJAsT6jfaDrJfbAN0opFF_okpy-qUBs6?usp=drive_link)
