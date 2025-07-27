@@ -1,24 +1,7 @@
 ## 🐍 Python version 3.11.7
 
 ## 📂 Folder Structure
-📁 CLG_PROJECT-MAIN/&nbsp;&nbsp;&nbsp;                       # Root directory of the project<br>
-├── 📁 .vscode/&nbsp;&nbsp;&nbsp;                            # VSCode-specific settings<br>
-│   └── 📄 settings.json&nbsp;&nbsp;&nbsp;                   # Editor configuration (e.g., linting, formatting)<br>
-├── 📁 assets/&nbsp;&nbsp;&nbsp;                             # Static assets like images or icons<br>
-├── 📁 myenv/&nbsp;&nbsp;&nbsp;                              # Python virtual environment (usually ignored by Git)<br>
-├── 📁 sign-to-text/&nbsp;&nbsp;&nbsp;                       # Module for sign language ➝ text conversion<br>
-│   ├── 📁 Data/&nbsp;&nbsp;&nbsp;                           # Input/processed data for the model<br>
-│   └── 📁 Model/&nbsp;&nbsp;&nbsp;                          # Saved models or checkpoints<br>
-├── 📁 text-to-sign/&nbsp;&nbsp;&nbsp;                       # Module for text ➝ sign language conversion<br>
-│   └── 📁 Dataset/&nbsp;&nbsp;&nbsp;                        # Dataset folder for training or inference<br>
-│       └── 📁 simplified_dataset/&nbsp;&nbsp;&nbsp;         # Simplified or preprocessed version of dataset<br>
-├── 📁 ui/&nbsp;&nbsp;&nbsp;                                 # User interface files (frontend/backend)<br>
-├── 📄 .gitattributes&nbsp;&nbsp;&nbsp;                      # Git settings for handling text files, e.g., line endings<br>
-├── 📄 .gitignore&nbsp;&nbsp;&nbsp;                          # Files/folders to be ignored by Git<br>
-├── 🎞️ combined.avi&nbsp;&nbsp;&nbsp;                        # Video file (possibly generated output/demo)<br>
-├── 🐍 main.py&nbsp;&nbsp;&nbsp;                             # Main Python script to run the project<br>
-├── 📘 README.md&nbsp;&nbsp;&nbsp;                           # Project documentation<br>
-└── 📄 requirements.txt&nbsp;&nbsp;&nbsp;                    # Python libraries/dependencies<br>
+<pre> ``` 📁 CLG_PROJECT-MAIN/ # Root directory of the project ├── 📁 .vscode/ # VSCode-specific settings │ └── 📄 settings.json # Editor configuration (e.g., linting, formatting) ├── 📁 assets/ # Static assets like images or icons ├── 📁 myenv/ # Python virtual environment (usually ignored by Git) ├── 📁 sign-to-text/ # Module for sign language ➝ text conversion │ ├── 📁 Data/ # Input/processed data for the model │ └── 📁 Model/ # Saved models or checkpoints ├── 📁 text-to-sign/ # Module for text ➝ sign language conversion │ └── 📁 Dataset/ # Dataset folder for training or inference │ └── 📁 simplified_dataset/ # Simplified or preprocessed version of dataset ├── 📁 ui/ # User interface files (frontend/backend) ├── 📄 .gitattributes # Git settings for handling text files, e.g., line endings ├── 📄 .gitignore # Files/folders to be ignored by Git ├── 🎞️ combined.avi # Video file (possibly generated output/demo) ├── 🐍 main.py # Main Python script to run the project ├── 📘 README.md # Project documentation └── 📄 requirements.txt # Python libraries/dependencies ``` </pre>
 
 
 
