@@ -1,8 +1,8 @@
 ## 🐍 Python version 3.11.7
 
 ## 📂 Folder Structure
-📁 CLG_PROJECT-MAIN/                        # Root directory of the project<br>
-├── 📁 .vscode/                            # VSCode-specific settings<br>
+📁 CLG_PROJECT-MAIN/ &nbsp;&nbsp;&nbsp;                       # Root directory of the project<br>
+├── 📁 .vscode/      &nbsp;&nbsp;&nbsp;                      # VSCode-specific settings<br>
 │   └── 📄 settings.json                   # Editor configuration (e.g., linting, formatting)<br>
 ├── 📁 assets/                             # Static assets like images or icons<br>
 ├── 📁 myenv/                              # Python virtual environment (usually ignored by Git)<br>
@@ -47,9 +47,9 @@ git clone https://github.com/31kiran2003/clg-signlang-new.git
 🧑‍🎨 Customize content as per your profile<br>
 
 ## 👤 Author
-🙋‍♂️ Kiran Prajapati
-🌍 Mumbai, India
-📧 kiranprajapati6334@gmail.com
+🙋‍♂️ Kiran Prajapati<br>
+🌍 Mumbai, India<br>
+📧 kiranprajapati6334@gmail.com<br>
 
 ## 📽️ Preview
 * 🎬 Watch the [demo video](https://github.com/user-attachments/assets/731b240d-5061-43b7-b88b-c1c0719810d9) or try the live version to explore all features in action!<br>
