@@ -15,6 +15,6 @@
 1. myenv\Scripts\activate<br>
 2. python .\main.py
 
-## 📹 Video
-https://github.com/user-attachments/assets/731b240d-5061-43b7-b88b-c1c0719810d9
+### 📽️ Preview
+* 🎬 Watch the [demo video](https://github.com/user-attachments/assets/731b240d-5061-43b7-b88b-c1c0719810d9) or try the live version to explore all features in action!<br>
 
