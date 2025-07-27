@@ -1,7 +1,27 @@
 ## 🐍 Python version 3.11.7
 
 ## 📂 Folder Structure
-<pre> ``` 📁 CLG_PROJECT-MAIN/ # Root directory of the project ├── 📁 .vscode/ # VSCode-specific settings │ └── 📄 settings.json # Editor configuration (e.g., linting, formatting) ├── 📁 assets/ # Static assets like images or icons ├── 📁 myenv/ # Python virtual environment (usually ignored by Git) ├── 📁 sign-to-text/ # Module for sign language ➝ text conversion │ ├── 📁 Data/ # Input/processed data for the model │ └── 📁 Model/ # Saved models or checkpoints ├── 📁 text-to-sign/ # Module for text ➝ sign language conversion │ └── 📁 Dataset/ # Dataset folder for training or inference │ └── 📁 simplified_dataset/ # Simplified or preprocessed version of dataset ├── 📁 ui/ # User interface files (frontend/backend) ├── 📄 .gitattributes # Git settings for handling text files, e.g., line endings ├── 📄 .gitignore # Files/folders to be ignored by Git ├── 🎞️ combined.avi # Video file (possibly generated output/demo) ├── 🐍 main.py # Main Python script to run the project ├── 📘 README.md # Project documentation └── 📄 requirements.txt # Python libraries/dependencies ``` </pre>
+```
+📁 CLG_PROJECT-MAIN/                         # Root directory of the project
+├── 📁 .vscode/                              # VSCode-specific settings
+│   └── 📄 settings.json                     # Editor configuration (e.g., linting, formatting)
+├── 📁 assets/                               # Static assets like images or icons
+├── 📁 myenv/                                # Python virtual environment (usually ignored by Git)
+├── 📁 sign-to-text/                         # Module for sign language ➝ text conversion
+│   ├── 📁 Data/                             # Input/processed data for the model
+│   └── 📁 Model/                            # Saved models or checkpoints
+├── 📁 text-to-sign/                         # Module for text ➝ sign language conversion
+│   └── 📁 Dataset/                          # Dataset folder for training or inference
+│       └── 📁 simplified_dataset/           # Simplified or preprocessed version of dataset
+├── 📁 ui/                                   # User interface files (frontend/backend)
+├── 📄 .gitattributes                        # Git settings for handling text files, e.g., line endings
+├── 📄 .gitignore                            # Files/folders to be ignored by Git
+├── 🎞️ combined.avi                          # Video file (possibly generated output/demo)
+├── 🐍 main.py                               # Main Python script to run the project
+├── 📘 README.md                             # Project documentation
+└── 📄 requirements.txt                      # Python libraries/dependencies
+```
+
 
 
 
