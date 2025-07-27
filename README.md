@@ -1,30 +1,30 @@
 ## 🐍 Python version 3.11.7
 
-## Folder Structure
+## 📂 Folder Structure
+📁 CLG_PROJECT-MAIN/                        # Root directory of the project<br>
+├── 📁 .vscode/                            # VSCode-specific settings<br>
+│   └── 📄 settings.json                   # Editor configuration (e.g., linting, formatting)<br>
+├── 📁 assets/                             # Static assets like images or icons<br>
+├── 📁 myenv/                              # Python virtual environment (usually ignored by Git)<br>
+├── 📁 sign-to-text/                       # Module for sign language ➝ text conversion<br>
+│   ├── 📁 Data/                           # Input/processed data for the model<br>
+│   └── 📁 Model/                          # Saved models or checkpoints<br>
+├── 📁 text-to-sign/                       # Module for text ➝ sign language conversion<br>
+│   └── 📁 Dataset/                        # Dataset folder for training or inference<br>
+│       └── 📁 simplified_dataset/         # Simplified or preprocessed version of dataset<br>
+├── 📁 ui/                                 # User interface files (frontend/backend)<br>
+├── 📄 .gitattributes                      # Git settings for handling text files, e.g., line endings<br>
+├── 📄 .gitignore                          # Files/folders to be ignored by Git<br>
+├── 🎞️ combined.avi                        # Video file (possibly generated output/demo)<br>
+├── 🐍 main.py                             # Main Python script to run the project<br>
+├── 📘 README.md                           # Project documentation<br>
+└── 📄 requirements.txt                    # Python libraries/dependencies<br>
 
-CLG_PROJECT-MAIN/                     # Root directory of the project
-├── .vscode/                         # VSCode-specific settings
-│   └── settings.json                # Editor configuration (e.g., linting, formatting)
-├── assets/                          # Store images, icons, or static files used in the project
-├── myenv/                           # Python virtual environment (should be in .gitignore)
-├── sign-to-text/                    # Module for converting sign language to text
-│   ├── Data/                        # Contains input data or processed data for model
-│   └── Model/                       # Stores trained models or model files
-├── text-to-sign/                    # Module for converting text to sign language
-│   └── Dataset/                     # Dataset folder for text-to-sign conversion
-│       └── simplified_dataset/      # Simplified version of dataset (maybe preprocessed or curated)
-├── ui/                              # User Interface code (frontend/backend if applicable)
-├── .gitattributes                   # Git file to manage attributes like line endings
-├── .gitignore                       # Specifies files and folders Git should ignore
-├── combined.avi                     # Combined video file (possibly output or demo)
-├── main.py                          # Main script to run the application
-├── README.md                        # Project documentation and usage instructions
-└── requirements.txt                 # Python dependencies for the project
 
 
 ## 📂 Dataset
-   1. ASL dataset used for training and testing<br>
-   2. Available on Google Drive 👉 [Download Dataset](https://drive.google.com/drive/folders/1JJAsT6jfaDrJfbAN0opFF_okpy-qUBs6?usp=drive_link)
+1. ASL dataset used for training and testing<br>
+2. Available on Google Drive 👉 [Download Dataset](https://drive.google.com/drive/folders/1JJAsT6jfaDrJfbAN0opFF_okpy-qUBs6?usp=drive_link)
  
 ## 🚀 Setup & Run
 1. python -m venv myenv<br>
@@ -36,6 +36,20 @@ CLG_PROJECT-MAIN/                     # Root directory of the project
 ## ▶️ To Run Later
 1. myenv\Scripts\activate<br>
 2. python .\main.py
+
+## 🚀 Quick Start
+📁 Clone the repo<br>
+bash<br>
+Copy<br>
+Edit<br>
+git clone https://github.com/31kiran2003/clg-signlang-new.git
+▶️ Open index.html in your browser<br>
+🧑‍🎨 Customize content as per your profile<br>
+
+## 👤 Author
+🙋‍♂️ Kiran Prajapati
+🌍 Mumbai, India
+📧 kiranprajapati6334@gmail.com
 
 ## 📽️ Preview
 * 🎬 Watch the [demo video](https://github.com/user-attachments/assets/731b240d-5061-43b7-b88b-c1c0719810d9) or try the live version to explore all features in action!<br>
